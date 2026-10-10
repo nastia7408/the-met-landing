@@ -4,7 +4,7 @@ A modern, fully responsive landing page inspired by The Metropolitan Museum of A
 
 ## Live Preview
 
-🔗 [View Live Demo](https://nastia7408.github.io/the-met-landing/)
+🔗 [View Live Demo](https://nastia7408.github.io/layout_landing-page/)
 
 ## Design Reference
 
@@ -30,6 +30,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://nastia7408.github.io/the-met-landing/]
-   (https://nastia7408.github.io/the-met-landing/)
+   git clone [https://github.com/nastia7408/the-met-landing/.git](https://github.com/nastia7408/the-met-landing/.git)
    ```

@@ -1,4 +1,35 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# The Met — Landing Page
+
+A modern, fully responsive landing page inspired by The Metropolitan Museum of Art (The Met) design. The project showcases a clean cultural institution layout with interactive elements, custom typography, and a mobile-friendly structure.
+
+## Live Preview
+
+🔗 [View Live Demo](https://nastia7408.github.io/the-met-landing/)
+
+## Design Reference
+
+🎨 [Figma Design File](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+
+## Technologies Used
+
+- **HTML5** (Semantic markup, accessibility standards)
+- **SCSS / SASS** (Modular architecture, BEM methodology)
+- **JavaScript** (Interactive UI elements)
+- **Vite & Node.js** (Modern build tools and local development)
+
+## Key Features
+
+- **Fully Responsive Design:** Optimized for mobile devices, tablets, and desktops without horizontal scrolling.
+- **Interactive Navigation:** Mobile menu with smooth slide-in effects and dropdown contact details.
+- **Modern Layouts:** Built using Flexbox and CSS Grid.
+- **Optimized Performance:** Clean asset structure and fast loading times.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://nastia7408.github.io/the-met-landing/]
+   (https://nastia7408.github.io/the-met-landing/)
+   ```

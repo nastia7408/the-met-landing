@@ -29,6 +29,23 @@ A modern, fully responsive landing page inspired by The Metropolitan Museum of A
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/nastia7408/the-met-landing/.git](https://github.com/nastia7408/the-met-landing/.git)
-   ```
+  ```bash
+  git clone [https://github.com/nastia7408/the-met-landing/]
+  ```
+2. **Navigate to the project directory:**
+
+  ```bash
+  cd the-met-landing
+  ```
+
+3.**Install dependencies**:
+
+  ```bash
+  npm i
+  ```
+
+4.**Start the local development server**:
+
+  ```bash
+  npm start
+  ```

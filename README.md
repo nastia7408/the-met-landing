@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
   ```bash
-  git clone [https://github.com/nastia7408/the-met-landing/]
+  git clone https://github.com/nastia7408/the-met-landing/
   ```
 2. **Navigate to the project directory:**
 
